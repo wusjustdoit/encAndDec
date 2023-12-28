@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="encAndDec:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/encAndDec_jar</output-path>
+    <root id="archive" name="encAndDec.jar">
+      <element id="module-output" name="encAndDec" />
+    </root>
+  </artifact>
+</component>
